@@ -15,7 +15,7 @@ convenient development process.
     pidcat com.oprah.bees.android
 
 
-Here is an example of the output when running for the my app(Using `adb logcat -v threadtime`)
+Here is an example of the output when running for Chrome(Using `adb logcat -v threadtime`)
 
 ![Example screen](screen.png)
 
